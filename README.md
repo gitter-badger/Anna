@@ -2,6 +2,8 @@
 Artifical neural networks, anytime 
 ================
 
+[![Join the chat at https://gitter.im/ifp-uiuc/anna](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ifp-uiuc/anna?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a code repository to efficiently train a deconvolutional neural network with rectified linear units.
 
 This code uses [theano][theano], [pylearn2][pylearn2], [cuda-convnet][ccnet] and is heavily based on Sander Dieleman's [kaggle galaxy repo][galaxy].
